@@ -1,0 +1,127 @@
+
+body{
+    width: 600px;
+    height: 800px;
+    background:#FFFAEC;
+}
+header{
+    display: flex;
+    gap: 450px;
+}
+.image_1{
+    width: 46px;
+    height: 36px;
+    left: 159px;
+    top: 148px;
+    margin: 30px;
+    background: url(.png);
+} 
+.title_1{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 64px;
+    width: 283px;
+    height: 19px;
+    left: 587px;
+    top: 143px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    color: #001738;
+    margin: 30px;
+
+}
+.image_2{
+    width: 61.65px;
+    height: 21px;
+    left: 1207px;
+    display: flex;
+    gap:20px;
+    justify-content: space-between;
+    padding: 30px;
+}
+.image_3{
+    width: 680px;
+    height: 380px;
+    left: 958.57px;
+    top: 525.32px;
+    background: url(.png);
+}
+main{
+    display: flex;
+    width: 700px;
+}
+.title_2{
+    width: 196px;
+    height: 19px;
+    font-family: 'Roboto Flex';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    color: #000000;
+}
+.title_3{
+    width: 316px;
+    height: 47px;
+    font-family: 'Roboto Serif';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    color: #000000;
+}
+.text{
+    width: 314px;
+    height: 114px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    color: #001738;
+}
+.all_2{
+    padding: 258px;
+}
+.square{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 8px 51px;
+    gap: 10px;
+    width: 240px;
+    height: 35px;
+    left: 894px;
+    top: 582px;
+    background: #001738;
+    border-radius: 64px;
+    justify-content: center;
+    align-items: center;
+    color: #C58721;
+}
+.kartunku{
+    display: flex;
+    gap: 35px;
+}
+.soc_media{
+    display: flex;
+    gap: 40px;
+   margin: 20px;
+}
+.end{
+    display: flex;
+    justify-content: space-between;
+}
+.square_2{
+    width: 60px;
+    height: 60px;
+    background: #01193B;
+    border-radius: 8px;
+    display: block;
+    margin-left: 1437px;
+}
